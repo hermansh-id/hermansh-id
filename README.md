@@ -21,14 +21,6 @@ I'm passionate about solving real-world problems through data science and automa
 <br/>
 **Full Stack Programmer** &#12299;_Developing both front-end and back-end solutions for seamless software applications._
 
-----
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=hermansh-id&show_icons=true&count_private=true&theme=shadow_blue&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hermansh-id&layout=compact&hide_border=true&theme=shadow_blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=hermansh-id&theme=darcula&hide_border=true&background=FFFFFF00"> -->
-  <br>
-  <br>
-</p>
 
 <a href="https://twitter.com/trytree1618">
   <img align="left" alt="Herman's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
