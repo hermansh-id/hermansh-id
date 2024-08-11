@@ -22,7 +22,7 @@ I'm passionate about solving real-world problems through data science and automa
 **Full Stack Programmer** &#12299;_Developing both front-end and back-end solutions for seamless software applications._
 
 
-<a href="https://twitter.com/trytree1618">
+<a href="https://twitter.com/recurthinking">
   <img align="left" alt="Herman's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/herman.sh_/">
