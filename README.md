@@ -23,7 +23,7 @@ I'm passionate about solving real-world problems through data science and automa
 
 
 <a href="https://twitter.com/recurthinking">
-  <img align="left" alt="Herman's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Herman's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://www.instagram.com/herman.sh_/">
   <img align="left" alt="Herman's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
